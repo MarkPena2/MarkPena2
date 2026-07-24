@@ -2,6 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="100%" />
 
+# Mark Pena
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1976D2&center=true&vCenter=true&width=600&lines=QA+Automation+%7C+Playwright+%2B+Azure+DevOps;Building+closed-loop+test+%26+reporting+systems;Turning+manual+QA+into+reliable+pipelines" alt="Typing SVG" />
 </a>
@@ -30,6 +32,7 @@ I'm a Software QA Analyst at **ManhattanLife**, working on a small QA team that 
 **Test Automation & QA**
 
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Bruno](https://img.shields.io/badge/Bruno-707070?style=for-the-badge&logo=bruno&logoColor=white)](https://www.usebruno.com/)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
@@ -83,5 +86,9 @@ I'm a Software QA Analyst at **ManhattanLife**, working on a small QA team that 
 </div>
 
 <div align="center">
-<img src="https://profile-counter.glitch.me/MarkPena2/count.svg" alt="Visitor's Count" />
+
+**Profile views** *(cumulative count — checked whenever you look at this page, not a live notification)*
+
+<img src="https://komarev.com/ghpvc/?username=MarkPena2&color=1976D2&style=flat-square&label=Profile+Views" alt="Profile views" />
+
 </div>
