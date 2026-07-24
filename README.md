@@ -81,8 +81,7 @@ I'm a Software QA Analyst at **ManhattanLife**, working on a small QA team that 
 
 <div align="center">
 
-<!-- Replace the URLs below with your real links -->
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://ADD-YOUR-RESUME-LINK)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/MarkPena2/MarkPena2/raw/main/Mark%20Pena%20Resume%202026.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/markapena1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markapena1@gmail.com)
 
