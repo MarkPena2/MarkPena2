@@ -83,8 +83,8 @@ I'm a Software QA Analyst at **ManhattanLife**, working on a small QA team that 
 
 <!-- Replace the URLs below with your real links -->
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://ADD-YOUR-RESUME-LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ADD-YOUR-PROFILE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ADD-YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/markapena1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markapena1@gmail.com)
 
 </div>
 
