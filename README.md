@@ -16,6 +16,8 @@ I'm a Software QA Analyst at **ManhattanLife**, working on a small QA team that 
 
 - 🔭 Currently building out a phased QA automation system that extends Azure DevOps reporting into full closed-loop validation
 - 🧪 Also working on internal tools like a Playwright-based CSS issue scanner and a mock API testing project (Swagger/Node.js/Express)
+- 📈 [ADD: a quantified result — e.g. "Cut regression testing time by X% by automating Y manual test cases" or "Reduced release-blocking bugs by X% after introducing automated smoke tests"]
+- 🌱 Currently learning **[ADD: e.g. "Advanced Playwright reporting" / a certification you're pursuing]**
 - 🎓 Background from Texas Tech University
 - 📍 Based in Houston, TX
 
@@ -60,9 +62,9 @@ I'm a Software QA Analyst at **ManhattanLife**, working on a small QA team that 
 
 | Project | Description |
 |---|---|
-| **QA Automation System** | Phased automation system extending Azure DevOps reporting into a closed-loop validation pipeline |
-| **CSS Issue Scanner** | Self-contained Playwright tool that scans pages for CSS issues |
-| **API Test Project** | Swagger/Node.js/Express API with mock endpoints for automated test coverage |
+| [**QA Automation System**](https://github.com/MarkPena2/ADD-REPO-NAME) | Phased automation system extending Azure DevOps reporting into a closed-loop validation pipeline |
+| [**CSS Issue Scanner**](https://github.com/MarkPena2/ADD-REPO-NAME) | Self-contained Playwright tool that scans pages for CSS issues |
+| [**API Test Project**](https://github.com/MarkPena2/ADD-REPO-NAME) | Swagger/Node.js/Express API with mock endpoints for automated test coverage |
 
 ### 📊 GitHub Stats
 
@@ -79,15 +81,16 @@ I'm a Software QA Analyst at **ManhattanLife**, working on a small QA team that 
 
 <div align="center">
 
-<!-- Swap in your real links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/markapena1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markapena1@gmail.com)
+<!-- Replace the URLs below with your real links -->
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://ADD-YOUR-RESUME-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ADD-YOUR-PROFILE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ADD-YOUR-EMAIL)
 
 </div>
 
 <div align="center">
 
-**Profile views** *(cumulative count — checked whenever you look at this page, not a live notification)*
+**Profile views**
 
 <img src="https://komarev.com/ghpvc/?username=MarkPena2&color=1976D2&style=flat-square&label=Profile+Views" alt="Profile views" />
 
